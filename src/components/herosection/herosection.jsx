@@ -70,7 +70,11 @@ const Hero = () => {
         Hello I&apos;m Tai Quach
       </motion.div>
       <div className="imageContainer">
-        <img src="/hero.png" alt="" />
+        <img
+          src="./hero.png"
+          // src="/403176784_18402033754013486_4425571958523283205_n.jpg"
+          alt=""
+        />
       </div>
     </div>
   );
